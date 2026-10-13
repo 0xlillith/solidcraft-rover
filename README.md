@@ -1,4 +1,4 @@
-# SolidCraft Scientific Rover *SELENE*
+# SolidCraft Scientific Rover *-SELENE-*
 
 A scientific rover built entirely through **SolidCraft's native MCP commands**. An editable CAD showcase, a reusable media kit, and a public workload for investigating large-document performance.
 
