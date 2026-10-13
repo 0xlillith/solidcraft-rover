@@ -1,0 +1,51 @@
+{
+  "cli_version": "solidcraft-cli 0.7.0",
+  "fixture": "Rover-v7.solidcraft",
+  "fixture_sha256": "fcb08540b1db08325f366fd0ff235f84f66d96406961482736bc097d7248c6d6",
+  "runs": [
+    {
+      "run": 1,
+      "process_wall_ms": 31666.18189998553,
+      "phases_ms": {
+        "read": 0.2307,
+        "parse": 62.4172,
+        "evaluate": 23433.5287,
+        "mesh": 7182.0324
+      },
+      "bodies": 1395,
+      "triangles": 1025680
+    },
+    {
+      "run": 2,
+      "process_wall_ms": 31444.384000002174,
+      "phases_ms": {
+        "read": 0.2693,
+        "parse": 62.61849999999999,
+        "evaluate": 23271.8545,
+        "mesh": 7129.6868
+      },
+      "bodies": 1395,
+      "triangles": 1025680
+    },
+    {
+      "run": 3,
+      "process_wall_ms": 31514.921399997547,
+      "phases_ms": {
+        "read": 0.2493,
+        "parse": 73.154,
+        "evaluate": 23641.0355,
+        "mesh": 6882.4348
+      },
+      "bodies": 1395,
+      "triangles": 1025680
+    }
+  ],
+  "median_phases_ms": {
+    "read": 0.2493,
+    "parse": 62.61849999999999,
+    "evaluate": 23433.5287,
+    "mesh": 7129.6868
+  },
+  "median_process_wall_ms": 31514.921399997547,
+  "scope": "Fresh CLI process per run; OS file cache not flushed. Includes CLI display preparation, not GUI startup or first presented frame."
+}

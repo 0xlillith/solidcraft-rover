@@ -1,0 +1,54 @@
+{
+  "Rover-v7.solidcraft": {
+    "bytes": 216036,
+    "sha256": "fcb08540b1db08325f366fd0ff235f84f66d96406961482736bc097d7248c6d6",
+    "bodies": 1395,
+    "sketches": 576,
+    "sketch_curves": 3792,
+    "history_entries": 3324,
+    "component_definitions_including_root": 37,
+    "joints": 17,
+    "feature_errors": 0,
+    "feature_types": {
+      "Sketch": 576,
+      "ExtrudeFeature": 545,
+      "ShellFeature": 2,
+      "CylinderFeature": 498,
+      "BoxFeature": 254,
+      "CircularPatternFeature": 6,
+      "MoveFeature": 14,
+      "CoilFeature": 6,
+      "FilletFeature": 12,
+      "SweepFeature": 15,
+      "RevolveFeature": 1,
+      "BodyTransferFeature": 1395
+    },
+    "file_format": "solidcraft/15"
+  },
+  "Rover-recorded.solidcraft": {
+    "bytes": 215134,
+    "sha256": "b71d4ee5abca839387f759b89be9f23e0ac38ec9b1b7d1733309266ba9c0f30e",
+    "bodies": 1395,
+    "sketches": 576,
+    "sketch_curves": 3792,
+    "history_entries": 3323,
+    "component_definitions_including_root": 37,
+    "joints": 17,
+    "feature_errors": 0,
+    "feature_types": {
+      "Sketch": 576,
+      "ExtrudeFeature": 545,
+      "ShellFeature": 2,
+      "CylinderFeature": 498,
+      "BoxFeature": 254,
+      "CircularPatternFeature": 6,
+      "MoveFeature": 13,
+      "CoilFeature": 6,
+      "FilletFeature": 12,
+      "SweepFeature": 15,
+      "RevolveFeature": 1,
+      "BodyTransferFeature": 1395
+    },
+    "file_format": "solidcraft/15"
+  }
+}

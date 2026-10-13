@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-13",
+  "os": "Windows 11 Pro 10.0.26200",
+  "cpu": "AMD Ryzen AI Max+ 395",
+  "physical_cores": 16,
+  "logical_processors": 32,
+  "os_visible_ram_gib": 28,
+  "cli_version": "solidcraft-cli 0.7.0",
+  "distribution": "Official Windows x64 portable v0.7.0",
+  "cli_sha256": "e31ed3a454f96bab92dbb00002d2e37d3593ea376b6f7c16d1f767c59cd90bda",
+  "conditions": "Three sequential fresh CLI processes. OS caches not flushed. Desktop app remained open; background load not controlled. No screenshots or recording during these runs. Peak memory, CPU utilization and GPU timing were not sampled."
+}
