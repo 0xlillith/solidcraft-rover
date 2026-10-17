@@ -11,7 +11,7 @@ The rover has six driven wheels, visible suspension and dampers, an articulated 
 - **[Complete release](https://github.com/0xlillith/solidcraft-rover/releases/tag/v1.0.0)**: native models, STEP, 3MF, all photos, GIFs and MP4s.
 - **[Editable rover](https://github.com/0xlillith/solidcraft-rover/releases/download/v1.0.0/Rover-v7.solidcraft)**: the approved v7 assembly, with its native feature history and joints.
 - **[Everything in one ZIP](https://github.com/0xlillith/solidcraft-rover/releases/download/v1.0.0/SolidCraft-rover-complete-kit.zip)**: models, exchange exports, media and licence information.
-- [Media-only ZIP](MEDIAhttps://github.com/0xlillith/solidcraft-rover/releases/download/v1.0.0/SolidCraft-rover-complete-kit.zip): 16 PNGs, two GIFs, two MP4s and an offline gallery.
+- [Media-only ZIP](https://github.com/0xlillith/solidcraft-rover/releases/download/v1.0.0/SolidCraft-rover-media-kit.zip): 16 PNGs, two GIFs, two MP4s and an offline gallery.
 - [Construction-recording model](https://github.com/0xlillith/solidcraft-rover/releases/download/v1.0.0/Rover-recorded.solidcraft): the separately reconstructed variant shown in the timelapse.
 
 Open the native `.solidcraft` model with [SolidCraft 0.7.0](https://github.com/bherbruck/solidcraft/releases/tag/v0.7.0), the version used to create and validate these assets. STEP and 3MF exports are also available in the release; they do not preserve the native modelling history.
